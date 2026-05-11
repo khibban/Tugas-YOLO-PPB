@@ -1,0 +1,38 @@
+name: yolo_detector
+description: "YOLO Object Detection Flutter App - Detect objects in images and live camera feed."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Official Ultralytics YOLO plugin for Flutter
+  # Handles model loading, inference, and bounding box rendering automatically
+  ultralytics_yolo: ^0.3.4
+
+  # Pick images from the phone gallery or take new photos with the camera
+  image_picker: ^1.1.2
+
+  # Request camera permission at runtime (required for Android)
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # Asset folders - the models folder is for custom YOLO .tflite model files
+  assets:
+    - assets/models/

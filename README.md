@@ -45,8 +45,11 @@ Model yang dipaketkan ke dalam aplikasi ini adalah `yolo11n.tflite`. Model ini d
 ## Screenshot Penggunaaan Aplikasi
 
 <img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/5d9642e6-c3cc-4db1-98fd-e30ef2e2f26d" />
+
 <img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/ed17ae54-d29f-454f-aa8c-7a809d1c8c89" />
+
 <img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/dd607e77-f746-4c60-b0f3-9aea80f9f443" />
+
 <img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/d2db6ec7-4f24-4df0-83be-6211c569dbfd" />
 
 
